@@ -1,2 +1,2 @@
 ## Adding a new file in a child branch
-pring ("inside child branch")
+print ("inside child branch")
